@@ -1,0 +1,6 @@
+{
+  "name": "Melody Café Player - Rachit Sunil Harjani (PRN: 25070721006)",
+  "description": "Interactive circular doubly linked list music player and visualizer by Rachit Sunil Harjani (PRN: 25070721006). Features live Internet audio streaming, node pointer graph, step-by-step test execution, and playlist operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
